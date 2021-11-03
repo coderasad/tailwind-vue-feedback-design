@@ -26,8 +26,8 @@
 
             <form action="">
                <div class="p-5">
-                    <label for="title" class=" text-lg text-gray-700 block mb-3">What's your feedback?</label>
-                    <textarea class="border border-gray-300 rounded-md p-4 w-full min-h-[120px] focus:outline-none focus:border-primary-500" name="" id="title" placeholder="Write Here..." ></textarea>
+                    <label for="question_1" class="text-lg text-gray-700 block mb-3">What's your feedback?</label>
+                    <textarea class="border border-gray-300 rounded-md p-4 w-full min-h-[120px] focus:outline-none focus:border-primary-500" id="question_1" placeholder="Write Here..." ></textarea>
                </div>
                 
                 <div class="bg-primary-50 p-5">
